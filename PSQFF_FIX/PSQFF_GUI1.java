@@ -1,4 +1,5 @@
 // Файл: PSQFF_GUI.java (ИЗМЕНЕННАЯ ВЕРСИЯ)
+package psqff_fix;
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;
 import java.awt.*;

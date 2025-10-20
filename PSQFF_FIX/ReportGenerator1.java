@@ -1,4 +1,5 @@
 // Файл: ReportGenerator.java (НОВАЯ ИСПРАВЛЕННАЯ ВЕРСИЯ)
+package psqff_fix;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
