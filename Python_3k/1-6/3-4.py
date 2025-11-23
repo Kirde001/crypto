@@ -46,7 +46,7 @@ def explain_legendre_detailed(a, p):
     return final_result
 
 def solve_pocklington_detailed():
-    print("\n=== КАЛЬКУЛЯТОР ПОКЛИНГТОНА (ОЧЕНЬ ПОДРОБНО) ===")
+    print("\n=== КАЛЬКУЛЯТОР ПОКЛИНГТОНА ===")
     try:
         a_in = int(input("Введите a: "))
         p_in = int(input("Введите p: "))
